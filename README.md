@@ -14,5 +14,6 @@ Then, using the `Statistics` notebook, we compute the probability distribution o
 
 As output of this analysis, we obtain a `.csv` file with the name of the states where the test failed (for each kind of testing). This allows us to classify the states into those where density is a decisive factor of product development and those where development occurred in a more random way. These files are stored in the `ANOVA_flag_1` and the `Kurskal_flag_1` folders, respectively.
 
+# References
  
 [1] Hidalgo, C. A., Klinger, B., Barabási, A. L., & Hausmann, R. (2007). The product space conditions the development of nations. Science, 317(5837), 482-487.
