@@ -1,6 +1,6 @@
 ﻿# Economic complexity of Mexico
 
-We developed a complex systems-based analysis of the economic activities of the 32 states of Mexico. The methodology we applied is based on the work of Hidalgo et. al. The product space conditions the development of nations [1].
+We developed a complex systems-based analysis of the economic activities of the 32 states of Mexico. The methodology we applied is based on the work of Hidalgo et. al. *The product space conditions the development of nations* [1].
  
  # Methodology
  
