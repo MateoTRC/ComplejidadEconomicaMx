@@ -4,7 +4,7 @@ We developed a complex systems-based analysis of the economic activities of the 
  
  # Methodology
  
- Once we have the values of proximity and $RCA$ for each product in every state stored in the Excel file of each folder, we use the notebook `Read_data_and_compute_metrics` to compute the density of each product in every state. The density is defined as follows:
+ Once we have the values of proximity $\phi_{ij}$ and $RCA$ for each product in every state stored in the Excel file of each folder, we use the notebook `Read_data_and_compute_metrics` to compute the density of each product in every state. The density is defined as follows:
  
 $$\omega^k_j=\frac{\sum_i x_i\phi_{ij}}{\sum_i\phi_{ij}}$$
 
