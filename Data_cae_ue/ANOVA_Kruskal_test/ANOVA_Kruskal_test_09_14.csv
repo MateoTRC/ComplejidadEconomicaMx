@@ -1,0 +1,33 @@
+,Estado,Periodo,ANOVA_flag,Kruskal_flag
+0,Aguascalientes,2009-2014,1,1
+1,Baja California,2009-2014,1,1
+2,Baja California Sur,2009-2014,1,1
+3,Campeche,2009-2014,1,1
+4,Coahuila,2009-2014,1,1
+5,Colima,2009-2014,1,1
+6,Chiapas,2009-2014,1,1
+7,Chihuahua,2009-2014,1,1
+8,Ciudad de México,2009-2014,0,0
+9,Durango,2009-2014,1,1
+10,Guanajuato,2009-2014,0,1
+11,Guerrero,2009-2014,1,1
+12,Hidalgo,2009-2014,1,1
+13,Jalisco,2009-2014,1,1
+14,México,2009-2014,0,0
+15,Michoacán,2009-2014,0,0
+16,Morelos,2009-2014,0,0
+17,Nayarit,2009-2014,1,1
+18,Nuevo León,2009-2014,0,1
+19,Oaxaca,2009-2014,1,1
+20,Puebla,2009-2014,0,0
+21,Querétaro,2009-2014,1,1
+22,Quintana Roo,2009-2014,1,1
+23,San Luis Potosí,2009-2014,1,1
+24,Sinaloa,2009-2014,1,1
+25,Sonora,2009-2014,0,0
+26,Tabasco,2009-2014,1,1
+27,Tamaulipas,2009-2014,1,1
+28,Tlaxcala,2009-2014,0,0
+29,Veracruz,2009-2014,0,0
+30,Yucatán,2009-2014,0,0
+31,Zacatecas,2009-2014,1,1
